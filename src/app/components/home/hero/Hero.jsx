@@ -1,7 +1,7 @@
 import React from "react";
 import Wrapper from "../../shared/wrapper/Wrapper";
 import Image from "next/image";
-import user from "../../../asset/user1.png";
+import user from "../../../asset/use.png";
 import {
   TiSocialFacebook,
   TiSocialLinkedin,
